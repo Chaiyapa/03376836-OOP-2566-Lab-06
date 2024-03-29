@@ -4,7 +4,8 @@
 โปรแกรมสามารถ Build ได้เพราะไม่มีปัญหา syntax หรือ logical error ใน code
 ### บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
-![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-06/assets/144195729/218ce62b-3888-42aa-98e1-fe312734cd74)
+![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-06/assets/144195729/24a4b5b0-6969-4152-b835-1222ee7fa54b)
+
 
 โปรแกรมสามารถ Run ได้เพราะไม่มีปัญหา syntax หรือ logical error ใน code
 ### อธิบายสิ่งที่พบในการทดลอง
