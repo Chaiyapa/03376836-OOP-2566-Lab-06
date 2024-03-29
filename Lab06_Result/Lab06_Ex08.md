@@ -1,3 +1,6 @@
-![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-06/assets/144195729/97f798d7-7bf7-4317-be89-1cd05c44a3f1)
+![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-06/assets/144195729/df645256-4847-48cd-879d-891415fd62a8)
 
-![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-06/assets/144195729/86493329-c01a-4d59-9b9d-3807395cd4d1)
+![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-06/assets/144195729/787335c4-c93b-4fab-8ca2-62b212eebd63)
+
+### ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
+ปัญหานี้คือการเปลี่ยน PI จากค่าคงที่ (const) เป็นตัวแปรประเภท static โดยใช้ readonly เนื่องจากค่าคงที่ไม่สามารถเปลี่ยนแปลงได้หลังจากกำหนดค่าไว้แล้ว
